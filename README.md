@@ -118,6 +118,7 @@ A proper project cannot be done without the right data and since we were working
 
 #### Conclusion
 Overall, our R2 score of 0.81, means that 81% of the data variance can be explained by our Random Forest model. This means that it generalizes well in predicting used car prices. Even though covid cases and deaths are not significant on their own, they were still useful in improving our model score from 0.80 to 0.81.
+Please find the project available on the following Jupyter-Notebook [Capstone] (https://github.com/LeonLemos/PredictingUsedCars-Capstone/blob/main/Capstone-Final.ipynb)
 
 
 
