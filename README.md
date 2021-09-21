@@ -33,8 +33,8 @@ https://github.com/nytimes/covid-19-data
 
 
 #### Exploratory Data Analysis
-Used Vehicles Scraped Data
-The first dataset was downloaded from Kaggle. The author scraped this data from craigslist for daily listings over the period of a month. It contains all relevant information that Craigslist provides on car sales including columns like price, year, manufacturer,posting_date, and 22 other categories. 
+Used Vehicles Scraped Data. 
+The first dataset was downloaded from Kaggle. The author scraped this data from craigslist for daily listings over the period of a month. It contains all relevant information that Craigslist provides on car sales including columns like price, year, manufacturer, posting_date, and 22 other categories. 
 
 This dataset contains 426.880 observations.
 
@@ -46,7 +46,7 @@ It contains 16 columns and 245.484 observations.
 <img width="1012" alt="Screenshot 2021-08-12 at 02 54 40" src="https://user-images.githubusercontent.com/63846429/133591702-37e5dc44-f750-46e7-b1d6-c538fbd388fc.png">
 
 Covid-19 Data in the United States.
-The next dataset published here, is the daily cumulative number of cases and deaths, reported in every state across the U.S., since the beginning of the pandemic.
+The next dataset published here, is the daily cumulative number of cases and deaths, reported in every state across the U.S, since the beginning of the pandemic.
 It is constantly updated live by the NYtimes Covid-19 bot.
 
 It contains 5 features and 28.999 observations before the EDA and 4 features and 25.955 observations after the EDA.
