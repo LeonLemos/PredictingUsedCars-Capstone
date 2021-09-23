@@ -1,3 +1,5 @@
+![GA logo](https://user-images.githubusercontent.com/63846429/134559884-acdb53c9-af69-4a30-a52e-238ab0240ad2.png)
+
 # PredictingUsedCars-Capstone
 # Overview
 My project creates a Machine Learning Model to detect which features are used to better predict used car prices. And also the effect that Covid-19 may have on these prices.
