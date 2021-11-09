@@ -1,4 +1,5 @@
-![GA logo](https://user-images.githubusercontent.com/63846429/134559884-acdb53c9-af69-4a30-a52e-238ab0240ad2.png)
+
+<img width="400" alt="GA logo" src="https://user-images.githubusercontent.com/63846429/134559884-acdb53c9-af69-4a30-a52e-238ab0240ad2.png">
 
 # PredictingUsedCars-Capstone
 # Overview
